@@ -1,8 +1,5 @@
 //  import { my_api_key } from "./config";
-let img = document.getElementById("img");
-let artist = document.getElementById("artist");
-let desc = document.getElementById("desc");
-let btn = document.getElementById("btn");
+
 
 
 const options = {
